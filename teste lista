@@ -1,55 +1,93 @@
 #EXTM3U
 
-#EXTINF: -1 tvg-logo='https://logospng.org/wp-content/uploads/bbb-big-brother-brasil.png' group-title='OUTROS' , BBB 23 CAMERA CASA
+#EXTINF: -1 tvg-logo='https://logospng.org/wp-content/uploads/bbb-big-brother-brasil.png' group-title='FIMES E SERIESS' , BBB 23 CAMERA CASA
 
 https://br.embedflix.net/p2p/bbb/chunks.m3u8?nimblesessionid=470007&wmsAuthSign=c2VydmVyX3RpbWU9MS8yOC8yMDIzIDU6MTA6MDkgUE0maGFzaF92YWx1ZT1jVFI1NUxrSHpzN1h1VDdTZzVjQXRnPT0mdmFsaWRtaW51dGVzPTkw
 
 
-#EXTINF: -1 tvg-logo='https://logospng.org/wp-content/uploads/bbb-big-brother-brasil.png' group-title='OUTROS' , BBB 23 CÃ‚MERA 11
-
-http://contentzord.gelderland.ga:2095/live/bbbcam11/chunks.m3u8?token=87811ad2784ew2d2
-
-
-#EXTINF: -1 tvg-logo='https://logospng.org/wp-content/uploads/bbb-big-brother-brasil.png' group-title='OUTROS' , BBB 23 CÃ‚MERA 9
-
-http://contentzord.gelderland.ga:2095/live/bbbcam9/chunks.m3u8?token=87811ad2784ew2d2
+#EXTINF: -1 tvg-logo='https://www.pngwing.com/en/free-png-ygwrc' group-title='ESPORTES' , ESPN
+https://m3u9.ml/a2/hls1/espn-bk2.m3u8?mu3zAQc9HC3GbwJq=WajF15ZtrR9W6U5Fgr-3UQ&3U1G7qaTxrPbalZnEx=1674957479
 
 
-#EXTINF: -1 tvg-logo='https://logospng.org/wp-content/uploads/bbb-big-brother-brasil.png' group-title='OUTROS' , BBB 23 CÃ‚MERA 8
 
-http://contentzord.gelderland.ga:2095/live/bbbcam8/chunks.m3u8?token=87811ad2784ew2d2
-
-
-#EXTINF: -1 tvg-logo='https://logospng.org/wp-content/uploads/bbb-big-brother-brasil.png' group-title='OUTROS' , BBB 23 CÃ‚MERA 5
-
-http://contentzord.gelderland.ga:2095/live/bbbcam5/chunks.m3u8?token=87811ad2784ew2d2
+#EXTINF: -1 tvg-logo=' 'group-title='ESPORTES' , ESPN 2 
+https://m3u9.ml/a2/hls1/espn2-bk2.m3u8?mu3zAQc9HC3GbwJq=bqQJC8YjtucBuKlV4qn7DQ&3U1G7qaTxrPbalZnEx=1674958385
 
 
-#EXTINF: -1 tvg-logo='https://logospng.org/wp-content/uploads/bbb-big-brother-brasil.png' group-title='OUTROS' , BBB 23 CÃ‚MERA 4
 
-http://contentzord.gelderland.ga:2095/live/bbbcam4/chunks.m3u8?token=87811ad2784ew2d2
+#EXTINF: -1 tvg-logo='' group-title='ESPORTES' , ESPN 3
 
-
-#EXTINF: -1 tvg-logo='https://logospng.org/wp-content/uploads/bbb-big-brother-brasil.png' group-title='OUTROS' , BBB 23 CÃ‚MERA 3
-
-http://contentzord.gelderland.ga:2095/live/bbbcam3/chunks.m3u8?token=87811ad2784ew2d2
+https://m3u9.ml/a2/hls1/espn3-bk2.m3u8?mu3zAQc9HC3GbwJq=jSqXeA9Q0ZKWbXuZ9vtysQ&3U1G7qaTxrPbalZnEx=1674958550
 
 
-#EXTINF: -1 tvg-logo='https://logospng.org/wp-content/uploads/bbb-big-brother-brasil.png' group-title='OUTROS' , BBB 23 CÃ‚MERA 2
+#EXTINF: -1 tvg-logo=' ' group-title='ESPORTES' , ESPN 4
 
-http://contentzord.gelderland.ga:2095/live/bbbcam2/chunks.m3u8?token=87811ad2784ew2d2
-
-
-#EXTINF: -1 tvg-logo='https://logospng.org/wp-content/uploads/bbb-big-brother-brasil.png' group-title='OUTROS' , BBB 23 CÃ‚MERA 12
-
-http://contentzord.gelderland.ga:2095/live/bbbcam12/chunks.m3u8?token=87811ad2784ew2d2
+https://m3u9.ml/a2/hls1/espn4-bk2.m3u8?mu3zAQc9HC3GbwJq=zSKYyzfPXGG3BFezbH3gFQ&3U1G7qaTxrPbalZnEx=1674958714
 
 
-#EXTINF: -1 tvg-logo='https://logospng.org/wp-content/uploads/bbb-big-brother-brasil.png' group-title='OUTROS' , BBB 23 CÃ‚MERA 11
+#EXTINF: -1 tvg-logo=' ' group-title='ESPORTES' , ESPN EXTRA
 
-http://contentzord.gelderland.ga:2095/live/bbbcam11/chunks.m3u8?token=87811ad2784ew2d2
+https://embedsupertv.site/playlist/03a362f8432f9c98e7e0849d20281e66/f1fdb7183ddaf2a4c474874bc257e662/master.txt?token=Q3JDUmpBODRNSGFvcDRCL0JlUzhpdz09OjoJt2cDdHlMIxgh0EuakwrD
 
 
-#EXTINF: -1 tvg-logo='https://logospng.org/wp-content/uploads/bbb-big-brother-brasil.png' group-title='OUTROS' , BBB 23 CÃ‚MERA 10
+#EXTINF: -1 tvg-logo=' ' group-title='ESPORTES' , OFF
 
-http://contentzord.gelderland.ga:2095/live/bbbcam10/chunks.m3u8?token=87811ad2784ew2d2
+https://embedsupertv.site/playlist/03a362f8432f9c98e7e0849d20281e66/cd172ed3d89cbced4cea966b70845962/master.txt?token=Q3JDUmpBODRNSGFvcDRCL0JlUzhpdz09OjoJt2cDdHlMIxgh0EuakwrD
+
+
+#EXTINF: -1 tvg-logo=' ' group-title='ESPORTES' FOX ESPORTS 2 , 
+https://cdn.taboola.com/libtrc/static/video/v1674161465/e0itdl5fx59qw186264u.mp4
+
+
+#EXTINF: -1 tvg-logo=' ' group-title='ESPORTES' , BAND ESPORTES
+https://m3u9.ml/a2/hls1/bandsports-bk2.m3u8?mu3zAQc9HC3GbwJq=ES7ZAni3VkVdLfg8BtrbUQ&3U1G7qaTxrPbalZnEx=1674959460
+
+
+#EXTINF: -1 tvg-logo=' ' group-title='DESENHOS' , TOONCAST
+https://embedsupertv.site/playlist/03a362f8432f9c98e7e0849d20281e66/4dc409ae495a6bc35031ebccb259a420/master.txt?token=Q3JDUmpBODRNSGFvcDRCL0JlUzhpdz09OjoJt2cDdHlMIxgh0EuakwrD
+
+
+#EXTINF: -1 tvg-logo=' ' group-title='DESENHOS' , CARTOON NETWORK
+https://m3u9.ml/a2/hls1/cartoon-bk2.m3u8?mu3zAQc9HC3GbwJq=f4PGp_b59i-nI4labgnDbw&3U1G7qaTxrPbalZnEx=1674959795
+
+
+#EXTINF: -1 tvg-logo=' ' group-title='DESENHOS' , DISNEY CHANNEL
+https://embedsupertv.site/playlist/03a362f8432f9c98e7e0849d20281e66/acfa90ab294f51bc84fb43c222a7fa7a/master.txt?token=Q3JDUmpBODRNSGFvcDRCL0JlUzhpdz09OjoJt2cDdHlMIxgh0EuakwrD
+
+
+#EXTINF: -1 tvg-logo=' ' group-title='DESENHOS' , GLOOBINHO
+https://embedsupertv.site/playlist/03a362f8432f9c98e7e0849d20281e66/528f736fcd9c184799ddf45317976680/master.txt?token=Q3JDUmpBODRNSGFvcDRCL0JlUzhpdz09OjoJt2cDdHlMIxgh0EuakwrD
+
+
+#EXTINF: -1 tvg-logo=' ' group-title='DESENHOS' , GLOOB
+https://embedsupertv.site/playlist/03a362f8432f9c98e7e0849d20281e66/03e44ccd38d5f6813a749abc516ca354/master.txt?token=Q3JDUmpBODRNSGFvcDRCL0JlUzhpdz09OjoJt2cDdHlMIxgh0EuakwrD
+
+
+#EXTINF: -1 tvg-logo=' ' group-title='DESENHOS' , NICKELODEON
+https://server100.online/nick/tracks-v1a1/mono.m3u8?remote=201.94.226.160&token=87928055405bc5d3484ea50926a8ee4f20aa34ef-f67a49283bf28b2278aab725f09702b6-1674934958-1674931358
+
+#EXTINF: -1 tvg-logo=' ' group-title='DESENHOS' , NICK JR
+https://server100.online/nick-jr/tracks-v1a1/mono.m3u8?remote=201.94.226.160&token=c5ee863c675a01f5d4b29544934ec9c2f5e1819f-f7b5835c3f3841aeb02708d6b1b33116-1674935129-1674931529
+
+#EXTINF: -1 tvg-logo=' ' group-title='DESENHOS' , DISCOVERY KIDS
+https://rr1---sn-nxgjvhuxa-bg0l.googlevideo.com/videoplayback?expire=1674960668&ei=nG7VY6K8Jsv31sQP_Z-76Ac&ip=201.94.226.160&id=c031fc88e356a089&itag=18&source=youtube&requiressl=yes&mh=d4&mm=31&mn=sn-nxgjvhuxa-bg0l&ms=au&mv=m&mvi=1&pl=20&susc=gvp&acao=yes&ctier=L&mime=video/mp4&vprv=1&dur=10.048&lmt=1673041665861173&mt=1674931515&txp=5430434&sparams=expire,ei,ip,id,itag,source,requiressl,susc,acao,ctier,mime,vprv,dur,lmt&sig=AOq0QJ8wRAIgH1V62pNCoWC_UkAgLJUsWfH3wfMAc8jivnzoZqOIVGICIFs0D3Vzte5q4YaknyFn3NyaxKP8pVMiUe2mJDhJt6zE&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhAO1PRVT5zaf68vgVb-qaqiCb7JiBIXyCnToqHvz8pfXcAiAwASeXTvr20hZ59tfq8IZ2NDil5NSRQyb8QUHg_OAfTQ==&cpn=oDXjyiVaVl0QxSD6
+
+#EXTINF: -1 tvg-logo=' ' group-title='FIMES E SERIES' , AMC
+https://embedsupertv.site/playlist/03a362f8432f9c98e7e0849d20281e66/f1a8d229c05448c0090507da96761cd1/master.txt?token=Q3JDUmpBODRNSGFvcDRCL0JlUzhpdz09OjoJt2cDdHlMIxgh0EuakwrD
+
+
+#EXTINF: -1 tvg-logo=' ' group-title='FIMES E SERIES' , FX
+https://embedsupertv.site/playlist/03a362f8432f9c98e7e0849d20281e66/33b49647f285bb9e12a777c4ec1dcc62/master.txt?token=Q3JDUmpBODRNSGFvcDRCL0JlUzhpdz09OjoJt2cDdHlMIxgh0EuakwrD
+
+
+#EXTINF: -1 tvg-logo=' ' group-title='FIMES E SERIES' , HBO MUNDI
+https://embedsupertv.site/playlist/03a362f8432f9c98e7e0849d20281e66/f37fb7ad196777135161824d1359a916/master.txt?token=Q3JDUmpBODRNSGFvcDRCL0JlUzhpdz09OjoJt2cDdHlMIxgh0EuakwrD
+
+#EXTINF: -1 tvg-logo=' ' group-title='FIMES E SERIES' , HBO PLUS
+https://embedsupertv.site/playlist/03a362f8432f9c98e7e0849d20281e66/d1f1c2dad54305b8387d2eb0b1151039/master.txt?token=Q3JDUmpBODRNSGFvcDRCL0JlUzhpdz09OjoJt2cDdHlMIxgh0EuakwrD
+
+#EXTINF: -1 tvg-logo=' ' group-title='FIMES E SERIES' , HBO FAMILY
+https://embedsupertv.site/playlist/03a362f8432f9c98e7e0849d20281e66/85d040c251c7048f8f68a91183d9ee5f/master.txt?token=Q3JDUmpBODRNSGFvcDRCL0JlUzhpdz09OjoJt2cDdHlMIxgh0EuakwrD
+
+#EXTINF: -1 tvg-logo=' ' group-title='FIMES E SERIES' , MEGAPIX
+https://embedsupertv.site/playlist/03a362f8432f9c98e7e0849d20281e66/71481bd38c674fc5d5e8d158d94affba/master.txt?token=Q3JDUmpBODRNSGFvcDRCL0JlUzhpdz09OjoJt2cDdHlMIxgh0EuakwrD
