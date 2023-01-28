@@ -1,0 +1,55 @@
+#EXTM3U
+
+#EXTINF: -1 tvg-logo='https://logospng.org/wp-content/uploads/bbb-big-brother-brasil.png' group-title='OUTROS' , BBB 23 CAMERA CASA
+
+https://br.embedflix.net/p2p/bbb/chunks.m3u8?nimblesessionid=470007&wmsAuthSign=c2VydmVyX3RpbWU9MS8yOC8yMDIzIDU6MTA6MDkgUE0maGFzaF92YWx1ZT1jVFI1NUxrSHpzN1h1VDdTZzVjQXRnPT0mdmFsaWRtaW51dGVzPTkw
+
+
+#EXTINF: -1 tvg-logo='https://logospng.org/wp-content/uploads/bbb-big-brother-brasil.png' group-title='OUTROS' , BBB 23 CÃ‚MERA 11
+
+http://contentzord.gelderland.ga:2095/live/bbbcam11/chunks.m3u8?token=87811ad2784ew2d2
+
+
+#EXTINF: -1 tvg-logo='https://logospng.org/wp-content/uploads/bbb-big-brother-brasil.png' group-title='OUTROS' , BBB 23 CÃ‚MERA 9
+
+http://contentzord.gelderland.ga:2095/live/bbbcam9/chunks.m3u8?token=87811ad2784ew2d2
+
+
+#EXTINF: -1 tvg-logo='https://logospng.org/wp-content/uploads/bbb-big-brother-brasil.png' group-title='OUTROS' , BBB 23 CÃ‚MERA 8
+
+http://contentzord.gelderland.ga:2095/live/bbbcam8/chunks.m3u8?token=87811ad2784ew2d2
+
+
+#EXTINF: -1 tvg-logo='https://logospng.org/wp-content/uploads/bbb-big-brother-brasil.png' group-title='OUTROS' , BBB 23 CÃ‚MERA 5
+
+http://contentzord.gelderland.ga:2095/live/bbbcam5/chunks.m3u8?token=87811ad2784ew2d2
+
+
+#EXTINF: -1 tvg-logo='https://logospng.org/wp-content/uploads/bbb-big-brother-brasil.png' group-title='OUTROS' , BBB 23 CÃ‚MERA 4
+
+http://contentzord.gelderland.ga:2095/live/bbbcam4/chunks.m3u8?token=87811ad2784ew2d2
+
+
+#EXTINF: -1 tvg-logo='https://logospng.org/wp-content/uploads/bbb-big-brother-brasil.png' group-title='OUTROS' , BBB 23 CÃ‚MERA 3
+
+http://contentzord.gelderland.ga:2095/live/bbbcam3/chunks.m3u8?token=87811ad2784ew2d2
+
+
+#EXTINF: -1 tvg-logo='https://logospng.org/wp-content/uploads/bbb-big-brother-brasil.png' group-title='OUTROS' , BBB 23 CÃ‚MERA 2
+
+http://contentzord.gelderland.ga:2095/live/bbbcam2/chunks.m3u8?token=87811ad2784ew2d2
+
+
+#EXTINF: -1 tvg-logo='https://logospng.org/wp-content/uploads/bbb-big-brother-brasil.png' group-title='OUTROS' , BBB 23 CÃ‚MERA 12
+
+http://contentzord.gelderland.ga:2095/live/bbbcam12/chunks.m3u8?token=87811ad2784ew2d2
+
+
+#EXTINF: -1 tvg-logo='https://logospng.org/wp-content/uploads/bbb-big-brother-brasil.png' group-title='OUTROS' , BBB 23 CÃ‚MERA 11
+
+http://contentzord.gelderland.ga:2095/live/bbbcam11/chunks.m3u8?token=87811ad2784ew2d2
+
+
+#EXTINF: -1 tvg-logo='https://logospng.org/wp-content/uploads/bbb-big-brother-brasil.png' group-title='OUTROS' , BBB 23 CÃ‚MERA 10
+
+http://contentzord.gelderland.ga:2095/live/bbbcam10/chunks.m3u8?token=87811ad2784ew2d2
